@@ -42,7 +42,7 @@
 
 ### 下载
 
-前往 [Releases](https://github.com/myifeng/ofd-view-releases/releases/latest) 获取最新版本：
+前往 [Releases](https://github.com/myifeng/ofd-viewer-releases/releases/latest) 获取最新版本：
 
 - Windows (x64)：`*setup.exe`
 - macOS：`*x64.dmg`（Intel）· `*arm64.dmg`（Apple Silicon）
@@ -93,7 +93,7 @@ Everything is parsed and rendered locally: your files stay on your computer, wit
 
 ### Download
 
-Get the latest build from [Releases](https://github.com/myifeng/ofd-view-releases/releases/latest):
+Get the latest build from [Releases](https://github.com/myifeng/ofd-viewer-releases/releases/latest):
 
 - Windows (x64): `*setup.exe`
 - macOS: `*x64.dmg` (Intel) · `*arm64.dmg` (Apple Silicon)
