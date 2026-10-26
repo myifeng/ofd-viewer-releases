@@ -7,6 +7,20 @@
 
 ---
 
+## 手机端阅读 · 微信小程序
+
+<p align="center">
+  <img src="./ofd-viewer-mini-qrcode.jpg" width="180" alt="OFD阅读助手微信小程序二维码 / OFD Reading Assistant WeChat Mini Program QR code" />
+  <br />
+  <strong>微信小程序「OFD阅读助手」</strong><br />
+  纯本地解析 · 安全不上传 · 免费使用<br />
+  打开微信「扫一扫」即可使用
+  <br /><br />
+  <sub>WeChat Mini Program “OFD Reading Assistant”: local parsing, private, and free. Scan with WeChat to use.</sub>
+</p>
+
+---
+
 ## 中文
 
 **ofd-view** 是一款免费、纯本地、完全离线的 **OFD 阅读器**（也称 OFD 查看器 / OFD 阅读软件），用于打开、阅读、检索、打印、导出并验签国标 **OFD 文档（GB/T 33190-2016）**。适用于电子发票、数电票、公文、证照、票据等场景，支持 **Windows、macOS、Linux**。
@@ -54,7 +68,7 @@
 
 ### 关键词
 
-OFD阅读器, OFD查看器, OFD阅读软件, OFD浏览器, 免费OFD, 打开OFD文件, OFD转PDF, OFD转图片, OFD打印, 电子发票阅读器, 数电票阅读器, 电子发票OFD, 国标OFD, GB/T 33190-2016, 电子签章验签, SM2验签, 跨平台, Windows, macOS, Linux, 离线, 本地解析, 隐私安全
+OFD阅读器, OFD查看器, OFD阅读软件, OFD浏览器, 免费OFD, 打开OFD文件, OFD转PDF, OFD转图片, OFD打印, 电子发票阅读器, 数电票阅读器, 电子发票OFD, 国标OFD, GB/T 33190-2016, 电子签章验签, SM2验签, 跨平台, Windows, macOS, Linux, 离线, 本地解析, 隐私安全, 微信小程序, OFD阅读助手, 手机OFD阅读器
 
 ---
 
@@ -105,4 +119,4 @@ Viewing and printing of Chinese e-invoices, electronic invoices, tax receipts, o
 
 ### Keywords
 
-OFD reader, OFD viewer, OFD reader for Windows, open OFD file, free OFD reader, OFD to PDF, OFD to image, OFD printer, electronic invoice viewer, Chinese e-invoice reader, GB/T 33190-2016, digital signature verification, SM2, cross-platform, Windows, macOS, Linux, offline, local parsing, privacy
+OFD reader, OFD viewer, OFD reader for Windows, open OFD file, free OFD reader, OFD to PDF, OFD to image, OFD printer, electronic invoice viewer, Chinese e-invoice reader, GB/T 33190-2016, digital signature verification, SM2, cross-platform, Windows, macOS, Linux, offline, local parsing, privacy, WeChat Mini Program, mobile OFD reader
