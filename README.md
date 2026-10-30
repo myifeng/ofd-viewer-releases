@@ -7,6 +7,16 @@
 
 ---
 
+## 界面预览 · Screenshot
+
+<p align="center">
+  <img src="./ofd-viewer-01.png" alt="OFD阅读器 PC 端界面截图 / OFD viewer desktop screenshot" />
+  <br />
+  <sub>PC 端界面（Windows / macOS / Linux）· Desktop UI on Windows, macOS and Linux</sub>
+</p>
+
+---
+
 ## 手机端阅读 · 微信小程序
 
 <p align="center">
@@ -64,11 +74,11 @@
 
 ### 适用场景
 
-电子发票、数电票、税务票据、电子公文、电子证照、合同、标书及各类国标 OFD 文档的查看与打印。
+电子发票、数电票、税务票据、电子公文、电子证照、合同、标书及各类国标 OFD 文档的查看与打印。手机端可使用微信小程序「OFD阅读助手」打开、查看 OFD 文件。
 
 ### 关键词
 
-OFD阅读器, OFD查看器, OFD阅读软件, OFD浏览器, 免费OFD, 打开OFD文件, OFD转PDF, OFD转图片, OFD打印, 电子发票阅读器, 数电票阅读器, 电子发票OFD, 国标OFD, GB/T 33190-2016, 电子签章验签, SM2验签, 跨平台, Windows, macOS, Linux, 离线, 本地解析, 隐私安全, 微信小程序, OFD阅读助手, 手机OFD阅读器
+OFD阅读器, OFD查看器, OFD阅读软件, OFD浏览器, 免费OFD, 打开OFD文件, OFD转PDF, OFD转图片, OFD打印, 电子发票阅读器, 数电票阅读器, 电子发票OFD, 国标OFD, GB/T 33190-2016, 电子签章验签, SM2验签, 跨平台, Windows, macOS, Linux, 离线, 本地解析, 隐私安全, 微信小程序, OFD小程序, 微信小程序OFD阅读器, OFD阅读助手, 手机OFD阅读器, 手机看OFD, 微信看OFD, 小程序打开OFD
 
 ---
 
@@ -115,8 +125,8 @@ Get the latest build from [Releases](https://github.com/myifeng/ofd-viewer-relea
 
 ### Use cases
 
-Viewing and printing of Chinese e-invoices, electronic invoices, tax receipts, official documents, certificates, contracts, tenders and other GB/T 33190-2016 OFD documents.
+Viewing and printing of Chinese e-invoices, electronic invoices, tax receipts, official documents, certificates, contracts, tenders and other GB/T 33190-2016 OFD documents. On phones, the “OFD Reading Assistant” WeChat Mini Program opens and views OFD files.
 
 ### Keywords
 
-OFD reader, OFD viewer, OFD reader for Windows, open OFD file, free OFD reader, OFD to PDF, OFD to image, OFD printer, electronic invoice viewer, Chinese e-invoice reader, GB/T 33190-2016, digital signature verification, SM2, cross-platform, Windows, macOS, Linux, offline, local parsing, privacy, WeChat Mini Program, mobile OFD reader
+OFD reader, OFD viewer, OFD reader for Windows, open OFD file, free OFD reader, OFD to PDF, OFD to image, OFD printer, electronic invoice viewer, Chinese e-invoice reader, GB/T 33190-2016, digital signature verification, SM2, cross-platform, Windows, macOS, Linux, offline, local parsing, privacy, WeChat Mini Program, WeChat mini program OFD reader, OFD mini program, mobile OFD reader, view OFD on phone, OFD Reading Assistant
